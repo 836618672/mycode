@@ -1,0 +1,10 @@
+*.log
+*.hql
+*.err
+nohup.out
+tmp
+*.test
+*.tmp
+*.pyc
+*.swp
+*.log.wf
